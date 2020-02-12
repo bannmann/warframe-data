@@ -1,18 +1,21 @@
 Akbolto
+Akstiletto
 Akvasto
 Ankyros
+Ash
 Ballistica
 Banshee
 Bo
 Boar
 Boltor
+Carrier
 Cernos
 Dakra
 Dual Kamas
 Ember
 Euphona
+Fragor
 Frost
-Galatine
 Glaive
 Helios
 Hikou
@@ -24,26 +27,23 @@ Loki
 Mag
 Mirage
 Nami Skyla
-Nekros
 Nikana
 Nova
 Nyx
-Oberon
 Odonata
 Reaper
 Rhino
 Saryn
 Scindo
 Sicarus
-Silva & Aegis
 Soma
 Spira
-Sybaris
 Tiberon
-Tigris
 Trinity
 Valkyr
 Vasto
+Vauban
+Vectis
 Venka
 Volt
 Wyrm
