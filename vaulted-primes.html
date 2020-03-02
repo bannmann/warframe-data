@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+
+    <style>
+      .wrapper {
+        font-size: 1.5vw;
+        font-family: sans-serif;
+        position: absolute;
+        top: 1vh;
+        left: 2vw;
+        width: 96vw;
+        height: 98vh;
+        display: grid;
+        grid-auto-flow: column;
+        grid-template-columns: repeat(auto-fit, minmax(10vh, 1fr));
+        grid-template-rows: repeat(auto-fill, 6.5vh);
+        grid-gap: 3vh 3vw;
+        align-content: center;
+      }
+      
+      .wrapper > * {
+        background: rgb(200, 200, 200);
+        color: black;
+        text-align: center;
+        padding: 1.5vh 0;
+        border-radius: 1vh;
+      }
+    </style>
+
+    <script>
+	  window.onload = () => {
+        let request = new Request('vaulted-primes.txt');
+        fetch(request)
+          .then(response => {
+            if (!response.ok) {
+              throw new Error(`Fetch failed, status=${response.status}`);
+            }
+            return response.text();
+          })
+          .then(text => {
+            const wrapper = document.querySelector('.wrapper');
+            text.split('\n').forEach(line => {
+              if (line) {
+                var div = document.createElement("div");
+                var text = document.createTextNode(line);
+                div.appendChild(text);
+                wrapper.appendChild(div);
+              }
+          });
+        });
+	  }
+    </script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+    </div>
+  </body>
+</html>
