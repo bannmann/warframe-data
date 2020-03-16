@@ -1,5 +1,3 @@
-# Warframe Data
-
 * Vaulted Primes
   * [Web page, large grid](vaulted-primes.html)
   * [Web page, large grid (dark mode)](vaulted-primes.html#dark)
