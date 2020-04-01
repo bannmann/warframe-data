@@ -26,9 +26,9 @@ Neo R4
 Neo T2
 Neo Z5
 
-Axi A10
 Axi A6
 Axi A9
+Axi A10
 Axi B3
 Axi G4
 Axi S6
