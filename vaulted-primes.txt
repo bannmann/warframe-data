@@ -11,6 +11,7 @@ Boltor
 Carrier
 Cernos
 Dakra
+Destreza
 Dual Kamas
 Ember
 Euphona
@@ -23,6 +24,7 @@ Hydroid
 Kogake
 Kronen
 Latron
+Limbo
 Loki
 Mag
 Mirage
@@ -31,6 +33,7 @@ Nikana
 Nova
 Nyx
 Odonata
+Pyrana
 Reaper
 Rhino
 Saryn
