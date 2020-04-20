@@ -1,0 +1,36 @@
+.wrapper {
+  font-size: 4vmin;
+  line-height: 250%;
+  top: 0;
+  left: 2vw;
+  width: 96vw;
+  height: 100vh;
+  grid-template-rows: repeat(9, 1fr);
+  grid-template-columns: auto; /* Label column */
+  grid-auto-columns: 1fr; /* Relic columns */
+  grid-column-gap: 2vw;
+}
+
+.wrapper > * {
+  cursor: default;
+}
+
+.wrapper .label {
+  background: none !important;
+}
+
+.wrapper .lith {
+  grid-row: 2;
+}
+
+.wrapper .meso {
+  grid-row: 4;
+}
+
+.wrapper .neo {
+  grid-row: 6;
+}
+
+.wrapper .axi {
+  grid-row: 8;
+}

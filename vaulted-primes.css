@@ -1,0 +1,11 @@
+.wrapper {
+  font-size: 1.5vw;
+  top: 1vh;
+  left: 2vw;
+  width: 96vw;
+  height: 98vh;
+  grid-auto-flow: column;
+  grid-template-columns: repeat(auto-fit, minmax(10vh, 1fr));
+  grid-template-rows: repeat(auto-fill, 6.5vh);
+  grid-gap: 3vh 3vw;
+}

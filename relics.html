@@ -1,67 +1,10 @@
+---
+title: Relics
+---
 <!DOCTYPE html>
-<html>
+<html id="light">
   <head>
-    <meta charset="UTF-8">
-    <title>Relics</title>
-    <link rel="icon" href="favicon.png" sizes="16x16" type="image/png">
-
-    <style>
-      .wrapper {
-        font-size: 4vmin;
-        line-height: 250%;
-        font-family: sans-serif;
-        position: absolute;
-        top: 0;
-        left: 2vw;
-        width: 96vw;
-        height: 100vh;
-        display: grid;
-        grid-template-rows: repeat(9, 1fr);
-        grid-template-columns: auto; /* Label column */
-        grid-auto-columns: 1fr; /* Relic columns */
-        grid-column-gap: 2vw;
-        align-content: center;
-      }
-      
-      .wrapper > * {
-        background: rgb(200, 200, 200);
-        color: black;
-        text-align: center;
-        padding: 1.5vh 0;
-        border-radius: 1vh;
-        cursor: default;
-      }
-      
-      .wrapper .label {
-        background: none !important;
-      }
-
-      .wrapper .lith {
-        grid-row: 2;
-      }
-
-      .wrapper .meso {
-        grid-row: 4;
-      }
-
-      .wrapper .neo {
-        grid-row: 6;
-      }
-
-      .wrapper .axi {
-        grid-row: 8;
-      }
-
-      body#dark:target {
-        background: black;
-      }
-
-      body#dark:target .wrapper > * {
-        color: white;
-        background: rgb(50, 50, 50);
-      }
-
-    </style>
+    {% include head.html %}
 
     <script>
 	  window.onload = () => {
@@ -93,6 +36,7 @@
   </head>
 
   <body id="dark">
+    {% include themepicker.html %}
     <div class="wrapper">
         <div class="lith label">Lith</div>
         <div class="meso label">Meso</div>

@@ -1,0 +1,11 @@
+
+    <meta charset="UTF-8">
+    {% if page.title %}
+    <title>{{ page.title }}</title>
+    {% else if site.title %}
+    <title>{{ site.title }}</title>
+    {% endif %}
+
+    <link rel="icon" href="favicon.png" sizes="16x16" type="image/png">
+    <link href="global.css?{{ site.time | date: '%s'}}" rel="stylesheet" />
+    <link href="{{ page.name | remove: '.html'}}.css?{{ site.time | date: '%s'}}" rel="stylesheet" />

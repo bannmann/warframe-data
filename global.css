@@ -1,0 +1,56 @@
+* {
+  font-family: sans-serif;
+}
+
+.wrapper {
+  position: absolute;
+  display: grid;
+  align-content: center;
+}
+
+.wrapper > * {
+  text-align: center;
+  padding: 1.5vh 0;
+  border-radius: 1vh;
+}
+
+#themepicker {
+  position: absolute;
+  right: 0.3rem;
+  top: 0;
+  font-size: 0.75rem;
+  cursor: pointer;
+  z-index: 10;
+}
+
+body,
+html#light:target body {
+  color: black;
+  background: white;
+}
+
+body .wrapper > *,
+html#light:target .wrapper > * {
+  background: rgb(200, 200, 200);
+}
+
+body#dark:target {
+  color: white;
+  background: black;
+}
+
+body#dark:target .wrapper > * {
+  background: rgb(50, 50, 50);
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: white;
+    background: black;
+  }
+  
+  body .wrapper > * {
+    background: rgb(50, 50, 50);
+  }
+}
+

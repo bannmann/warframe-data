@@ -1,45 +1,10 @@
+---
+title: 🔒Primes
+---
 <!DOCTYPE html>
-<html>
+<html id="light">
   <head>
-    <meta charset="UTF-8">
-    <title>🔒Primes</title>
-    <link rel="icon" href="favicon.png" sizes="16x16" type="image/png">
-
-    <style>
-      .wrapper {
-        font-size: 1.5vw;
-        font-family: sans-serif;
-        position: absolute;
-        top: 1vh;
-        left: 2vw;
-        width: 96vw;
-        height: 98vh;
-        display: grid;
-        grid-auto-flow: column;
-        grid-template-columns: repeat(auto-fit, minmax(10vh, 1fr));
-        grid-template-rows: repeat(auto-fill, 6.5vh);
-        grid-gap: 3vh 3vw;
-        align-content: center;
-      }
-      
-      .wrapper > * {
-        background: rgb(200, 200, 200);
-        color: black;
-        text-align: center;
-        padding: 1.5vh 0;
-        border-radius: 1vh;
-      }
-
-      body#dark:target {
-        background: black;
-      }
-
-      body#dark:target .wrapper > * {
-        color: white;
-        background: rgb(50, 50, 50);
-      }
-
-    </style>
+    {% include head.html %}
 
     <script>
 	  window.onload = () => {
@@ -67,6 +32,7 @@
   </head>
 
   <body id="dark">
+    {% include themepicker.html %}
     <div class="wrapper">
     </div>
   </body>
