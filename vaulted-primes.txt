@@ -12,11 +12,11 @@ Carrier
 Cernos
 Dakra
 Destreza
-Dual Kamas
 Ember
 Euphona
 Fragor
 Frost
+Galatine
 Glaive
 Helios
 Hikou
@@ -29,9 +29,10 @@ Loki
 Mag
 Mirage
 Nami Skyla
+Nekros
 Nikana
-Nova
 Nyx
+Oberon
 Odonata
 Pyrana
 Reaper
@@ -39,12 +40,12 @@ Rhino
 Saryn
 Scindo
 Sicarus
-Soma
+Silva & Aegis
 Spira
+Sybaris
 Tiberon
-Trinity
+Tigris
 Valkyr
-Vasto
 Vauban
 Vectis
 Venka

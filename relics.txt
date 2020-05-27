@@ -1,27 +1,25 @@
 Lith C4
 Lith C6
 Lith D1
+Lith K4
 Lith M5
 Lith N4
 Lith S8
-Lith S9
-Lith T3
 Lith W2
 
 Meso B4
 Meso C4
 Meso C5
 Meso D4
+Meso D5
 Meso E4
 Meso N9
-Meso O4
 Meso R3
 
 Neo A3
-Neo G3
 Neo I2
 Neo M3
-Neo N11
+Neo N12
 Neo P1
 Neo R4
 Neo T2
@@ -32,7 +30,7 @@ Axi A9
 Axi A10
 Axi B3
 Axi G4
-Axi S6
+Axi S7
 Axi T4
 Axi T5
 
