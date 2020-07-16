@@ -10,6 +10,7 @@ Boar
 Boltor
 Carrier
 Cernos
+Chroma
 Dakra
 Destreza
 Ember
@@ -18,6 +19,7 @@ Fragor
 Frost
 Galatine
 Glaive
+Gram
 Helios
 Hikou
 Hydroid
@@ -37,6 +39,7 @@ Odonata
 Pyrana
 Reaper
 Rhino
+Rubico
 Saryn
 Scindo
 Sicarus
