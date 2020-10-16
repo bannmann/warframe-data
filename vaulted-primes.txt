@@ -13,19 +13,16 @@ Cernos
 Chroma
 Dakra
 Destreza
-Ember
+Dual Kamas
 Euphona
 Fragor
-Frost
 Galatine
-Glaive
 Gram
 Helios
 Hikou
 Hydroid
 Kogake
 Kronen
-Latron
 Limbo
 Loki
 Mag
@@ -33,22 +30,24 @@ Mirage
 Nami Skyla
 Nekros
 Nikana
+Nova
 Nyx
 Oberon
 Odonata
 Pyrana
-Reaper
 Rhino
 Rubico
 Saryn
 Scindo
-Sicarus
 Silva & Aegis
+Soma
 Spira
 Sybaris
 Tiberon
 Tigris
+Trinity
 Valkyr
+Vasto
 Vauban
 Vectis
 Venka
