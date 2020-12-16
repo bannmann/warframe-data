@@ -1,11 +1,9 @@
-Akbolto
 Akjagara
 Akstiletto
 Akvasto
 Ankyros
 Ash
 Ballistica
-Banshee
 Bo
 Boar
 Boltor
@@ -15,20 +13,20 @@ Chroma
 Dakra
 Destreza
 Dual Kamas
-Euphona
+Ember
 Fragor
+Frost
 Galatine
+Glaive
 Gram
-Helios
 Hikou
 Hydroid
-Kogake
 Kronen
+Latron
 Limbo
 Loki
 Mag
 Mesa
-Mirage
 Nami Skyla
 Nekros
 Nikana
@@ -37,11 +35,13 @@ Nyx
 Oberon
 Odonata
 Pyrana
+Reaper
 Redeemer
 Rhino
 Rubico
 Saryn
 Scindo
+Sicarus
 Silva & Aegis
 Soma
 Spira
