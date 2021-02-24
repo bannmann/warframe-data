@@ -14,6 +14,7 @@ Dakra
 Destreza
 Dual Kamas
 Ember
+Equinox
 Fragor
 Frost
 Galatine
@@ -45,9 +46,11 @@ Sicarus
 Silva & Aegis
 Soma
 Spira
+Stradavar
 Sybaris
 Tiberon
 Tigris
+Tipedo
 Trinity
 Valkyr
 Vasto
