@@ -8,7 +8,6 @@ Bo
 Boar
 Boltor
 Carrier
-Cernos
 Chroma
 Dakra
 Destreza
@@ -20,7 +19,6 @@ Frost
 Galatine
 Glaive
 Gram
-Hikou
 Hydroid
 Kronen
 Latron
@@ -32,7 +30,6 @@ Nami Skyla
 Nekros
 Nikana
 Nova
-Nyx
 Oberon
 Odonata
 Pyrana
@@ -41,7 +38,6 @@ Redeemer
 Rhino
 Rubico
 Saryn
-Scindo
 Sicarus
 Silva & Aegis
 Soma
@@ -52,11 +48,9 @@ Tiberon
 Tigris
 Tipedo
 Trinity
-Valkyr
 Vasto
 Vauban
 Vectis
-Venka
 Volt
 Wyrm
 Zephyr
