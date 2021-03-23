@@ -26,6 +26,7 @@ Neo N14
 Neo N15
 Neo P2
 Neo T2
+Neo V9
 Neo Z7
 
 Axi A11
