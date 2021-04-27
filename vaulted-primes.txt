@@ -1,9 +1,11 @@
+Akbolto
 Akjagara
 Akstiletto
 Akvasto
 Ankyros
 Ash
 Ballistica
+Banshee
 Bo
 Boar
 Boltor
@@ -14,18 +16,22 @@ Destreza
 Dual Kamas
 Ember
 Equinox
+Euphona
 Fragor
 Frost
 Galatine
 Glaive
 Gram
+Helios
 Hydroid
+Kogake
 Kronen
 Latron
 Limbo
 Loki
 Mag
 Mesa
+Mirage
 Nami Skyla
 Nekros
 Nikana
