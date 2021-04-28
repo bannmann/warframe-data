@@ -10,7 +10,6 @@ Bo
 Boar
 Boltor
 Carrier
-Chroma
 Dakra
 Destreza
 Dual Kamas
@@ -21,11 +20,9 @@ Fragor
 Frost
 Galatine
 Glaive
-Gram
 Helios
 Hydroid
 Kogake
-Kronen
 Latron
 Limbo
 Loki
@@ -42,7 +39,6 @@ Pyrana
 Reaper
 Redeemer
 Rhino
-Rubico
 Saryn
 Sicarus
 Silva & Aegis
@@ -50,7 +46,6 @@ Soma
 Spira
 Stradavar
 Sybaris
-Tiberon
 Tigris
 Tipedo
 Trinity
@@ -59,5 +54,4 @@ Vauban
 Vectis
 Volt
 Wyrm
-Zephyr
 
