@@ -4,7 +4,6 @@ Akstiletto
 Akvasto
 Ankyros
 Ash
-Astilla
 Ballistica
 Banshee
 Bo
@@ -20,7 +19,6 @@ Euphona
 Fragor
 Frost
 Galatine
-Gara
 Glaive
 Helios
 Hydroid
@@ -34,6 +32,7 @@ Mirage
 Nami Skyla
 Nekros
 Nikana
+Ninkondi
 Nova
 Oberon
 Odonata
@@ -54,7 +53,8 @@ Trinity
 Vasto
 Vauban
 Vectis
-Volnus
 Volt
+Wukong
 Wyrm
+Zhuge
 
