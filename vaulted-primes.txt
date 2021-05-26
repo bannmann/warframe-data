@@ -4,6 +4,7 @@ Akstiletto
 Akvasto
 Ankyros
 Ash
+Astilla
 Ballistica
 Banshee
 Bo
@@ -19,6 +20,7 @@ Euphona
 Fragor
 Frost
 Galatine
+Gara
 Glaive
 Helios
 Hydroid
@@ -52,6 +54,7 @@ Trinity
 Vasto
 Vauban
 Vectis
+Volnus
 Volt
 Wyrm
 
