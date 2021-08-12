@@ -2,14 +2,13 @@ Akbolto
 Akjagara
 Akstiletto
 Akvasto
-Ankyros
 Ash
 Ballistica
 Banshee
 Bo
 Boar
-Boltor
 Carrier
+Chroma
 Dakra
 Destreza
 Dual Kamas
@@ -20,9 +19,11 @@ Fragor
 Frost
 Galatine
 Glaive
+Gram
 Helios
 Hydroid
 Kogake
+Kronen
 Latron
 Limbo
 Loki
@@ -39,7 +40,7 @@ Odonata
 Pyrana
 Reaper
 Redeemer
-Rhino
+Rubico
 Saryn
 Sicarus
 Silva & Aegis
@@ -47,6 +48,7 @@ Soma
 Spira
 Stradavar
 Sybaris
+Tiberon
 Tigris
 Tipedo
 Trinity
@@ -56,5 +58,6 @@ Vectis
 Volt
 Wukong
 Wyrm
+Zephyr
 Zhuge
 
