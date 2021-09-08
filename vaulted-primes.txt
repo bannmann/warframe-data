@@ -3,6 +3,7 @@ Akjagara
 Akstiletto
 Akvasto
 Ash
+Atlas
 Ballistica
 Banshee
 Bo
@@ -11,6 +12,7 @@ Carrier
 Chroma
 Dakra
 Destreza
+Dethcube
 Dual Kamas
 Ember
 Equinox
@@ -37,6 +39,7 @@ Ninkondi
 Nova
 Oberon
 Odonata
+Paris
 Pyrana
 Reaper
 Redeemer
@@ -48,6 +51,7 @@ Soma
 Spira
 Stradavar
 Sybaris
+Tekko
 Tiberon
 Tigris
 Tipedo
