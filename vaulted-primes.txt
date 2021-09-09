@@ -39,7 +39,6 @@ Ninkondi
 Nova
 Oberon
 Odonata
-Paris
 Pyrana
 Reaper
 Redeemer
