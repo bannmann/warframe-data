@@ -2,12 +2,14 @@ Akbolto
 Akjagara
 Akstiletto
 Akvasto
+Ankyros
 Ash
 Atlas
 Ballistica
 Banshee
 Bo
 Boar
+Boltor
 Carrier
 Chroma
 Dakra
@@ -42,6 +44,7 @@ Odonata
 Pyrana
 Reaper
 Redeemer
+Rhino
 Rubico
 Saryn
 Sicarus
