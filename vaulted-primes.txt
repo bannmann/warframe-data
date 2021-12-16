@@ -7,6 +7,7 @@ Ash
 Atlas
 Ballistica
 Banshee
+Baza
 Bo
 Boar
 Boltor
@@ -26,6 +27,7 @@ Glaive
 Gram
 Helios
 Hydroid
+Ivara
 Kogake
 Kronen
 Latron
