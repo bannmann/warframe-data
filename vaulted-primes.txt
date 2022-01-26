@@ -1,8 +1,8 @@
 Akbolto
 Akjagara
-Aksomati
 Akstiletto
 Akvasto
+Ankyros
 Ash
 Atlas
 Ballistica
@@ -10,6 +10,7 @@ Banshee
 Baza
 Bo
 Boar
+Boltor
 Carrier
 Chroma
 Dakra
@@ -45,6 +46,7 @@ Odonata
 Pyrana
 Reaper
 Redeemer
+Rhino
 Rubico
 Saryn
 Sicarus
