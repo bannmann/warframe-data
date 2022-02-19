@@ -1,15 +1,15 @@
-Akbolto
 Akjagara
 Aksomati
 Akstiletto
 Akvasto
+Ankyros
 Ash
 Atlas
 Ballistica
-Banshee
 Baza
 Bo
 Boar
+Boltor
 Carrier
 Chroma
 Dakra
@@ -18,23 +18,19 @@ Dethcube
 Dual Kamas
 Ember
 Equinox
-Euphona
 Fragor
 Frost
 Galatine
 Glaive
 Gram
-Helios
 Hydroid
 Ivara
-Kogake
 Kronen
 Latron
 Limbo
 Loki
 Mag
 Mesa
-Mirage
 Nami Skyla
 Nekros
 Nikana
@@ -45,6 +41,7 @@ Odonata
 Pyrana
 Reaper
 Redeemer
+Rhino
 Rubico
 Saryn
 Sicarus
