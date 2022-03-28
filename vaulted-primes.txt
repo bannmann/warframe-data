@@ -12,7 +12,7 @@ Boar
 Boltor
 Carrier
 Chroma
-Corvas
+Corinth
 Dakra
 Destreza
 Dethcube
@@ -22,7 +22,6 @@ Equinox
 Fragor
 Frost
 Galatine
-Garuda
 Glaive
 Gram
 Hydroid
@@ -33,7 +32,6 @@ Limbo
 Loki
 Mag
 Mesa
-Nagantaka
 Nami Skyla
 Nekros
 Nikana
@@ -41,6 +39,7 @@ Ninkondi
 Nova
 Oberon
 Odonata
+Pangolin
 Pyrana
 Reaper
 Redeemer
@@ -57,6 +56,7 @@ Tekko
 Tiberon
 Tigris
 Tipedo
+Titania
 Trinity
 Vasto
 Vauban
