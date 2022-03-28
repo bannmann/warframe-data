@@ -12,6 +12,7 @@ Boar
 Boltor
 Carrier
 Chroma
+Corinth
 Dakra
 Destreza
 Dethcube
@@ -38,6 +39,7 @@ Ninkondi
 Nova
 Oberon
 Odonata
+Pangolin
 Pyrana
 Reaper
 Redeemer
@@ -54,6 +56,7 @@ Tekko
 Tiberon
 Tigris
 Tipedo
+Titania
 Trinity
 Vasto
 Vauban
