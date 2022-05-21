@@ -1,3 +1,4 @@
+Akbolto
 Akjagara
 Aksomati
 Akstiletto
@@ -6,35 +7,36 @@ Ankyros
 Ash
 Atlas
 Ballistica
+Banshee
 Baza
 Bo
 Boar
 Boltor
 Carrier
-Chroma
 Corinth
 Dakra
 Destreza
 Dethcube
 Dual Kamas
-Dual Keres
 Ember
 Equinox
+Euphona
 Fragor
 Frost
 Galatine
 Glaive
-Gram
+Helios
 Hydroid
-Hystrix
+Inaros
 Ivara
-Khora
-Kronen
+Karyst
+Kogake
 Latron
 Limbo
 Loki
 Mag
 Mesa
+Mirage
 Nami Skyla
 Nekros
 Nikana
@@ -43,11 +45,11 @@ Nova
 Oberon
 Odonata
 Pangolin
+Panthera
 Pyrana
 Reaper
 Redeemer
 Rhino
-Rubico
 Saryn
 Sicarus
 Silva & Aegis
@@ -56,7 +58,6 @@ Spira
 Stradavar
 Sybaris
 Tekko
-Tiberon
 Tigris
 Tipedo
 Titania
@@ -67,6 +68,5 @@ Vectis
 Volt
 Wukong
 Wyrm
-Zephyr
 Zhuge
 
