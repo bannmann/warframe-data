@@ -17,6 +17,7 @@ Dakra
 Destreza
 Dethcube
 Dual Kamas
+Dual Keres
 Ember
 Equinox
 Fragor
@@ -25,7 +26,9 @@ Galatine
 Glaive
 Gram
 Hydroid
+Hystrix
 Ivara
+Khora
 Kronen
 Latron
 Limbo
