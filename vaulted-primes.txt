@@ -1,4 +1,5 @@
 Akbolto
+Akbronco
 Akjagara
 Aksomati
 Akstiletto
@@ -27,7 +28,9 @@ Galatine
 Glaive
 Helios
 Hydroid
+Inaros
 Ivara
+Karyst
 Kogake
 Latron
 Limbo
@@ -43,6 +46,7 @@ Nova
 Oberon
 Odonata
 Pangolin
+Panthera
 Pyrana
 Reaper
 Redeemer
