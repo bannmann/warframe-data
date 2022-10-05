@@ -27,6 +27,7 @@ Frost
 Galatine
 Glaive
 Gram
+Guandao
 Helios
 Hydroid
 Inaros
@@ -42,6 +43,7 @@ Mesa
 Mirage
 Nami Skyla
 Nekros
+Nezha
 Nikana
 Ninkondi
 Nova
@@ -73,6 +75,7 @@ Vectis
 Volt
 Wukong
 Wyrm
+Zakti
 Zephyr
 Zhuge
 
