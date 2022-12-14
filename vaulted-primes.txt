@@ -48,7 +48,9 @@ Nikana
 Ninkondi
 Nova
 Oberon
+Octavia
 Odonata
+Pandero
 Pangolin
 Panthera
 Pyrana
@@ -64,6 +66,7 @@ Spira
 Stradavar
 Sybaris
 Tekko
+Tenora
 Tiberon
 Tigris
 Tipedo
