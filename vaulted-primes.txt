@@ -41,11 +41,13 @@ Latron
 Limbo
 Loki
 Mag
+Magnus
 Mesa
 Mirage
 Nami Skyla
 Nekros
 Nezha
+Nidus
 Nikana
 Ninkondi
 Nova
@@ -66,6 +68,7 @@ Silva & Aegis
 Soma
 Spira
 Stradavar
+Strun
 Sybaris
 Tekko
 Tenora
