@@ -16,6 +16,7 @@ Boltor
 Carrier
 Chroma
 Corinth
+Corvas
 Dakra
 Destreza
 Dethcube
@@ -27,14 +28,17 @@ Fragor
 Frost
 Galatine
 Gara
+Garuda
 Glaive
 Gram
 Guandao
+Harrow
 Helios
 Hydroid
 Inaros
 Ivara
 Karyst
+Knell
 Kogake
 Kronen
 Latron
@@ -44,6 +48,7 @@ Mag
 Magnus
 Mesa
 Mirage
+Nagantaka
 Nami Skyla
 Nekros
 Nezha
@@ -63,6 +68,7 @@ Redeemer
 Rhino
 Rubico
 Saryn
+Scourge
 Sicarus
 Silva & Aegis
 Soma
