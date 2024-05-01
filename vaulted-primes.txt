@@ -21,6 +21,7 @@ Dakra
 Destreza
 Dethcube
 Dual Kamas
+Dual Keres
 Ember
 Equinox
 Euphona
@@ -35,9 +36,11 @@ Guandao
 Harrow
 Helios
 Hydroid
+Hystrix
 Inaros
 Ivara
 Karyst
+Khora
 Knell
 Kogake
 Kronen
