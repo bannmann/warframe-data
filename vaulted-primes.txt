@@ -1,5 +1,6 @@
 Akbolto
 Akjagara
+Akmagnus
 Aksomati
 Akstiletto
 Akvasto
@@ -65,9 +66,11 @@ Odonata
 Pandero
 Pangolin
 Panthera
+Phantasma
 Pyrana
 Reaper
 Redeemer
+Revenant
 Rhino
 Rubico
 Saryn
@@ -79,6 +82,7 @@ Spira
 Stradavar
 Strun
 Sybaris
+Tatsu
 Tekko
 Tenora
 Tiberon
