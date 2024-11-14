@@ -1,3 +1,4 @@
+Afuris
 Akbolto
 Akjagara
 Akmagnus
@@ -10,12 +11,14 @@ Astilla
 Atlas
 Ballistica
 Banshee
+Baruuk
 Baza
 Bo
 Boar
 Boltor
 Carrier
 Chroma
+Cobra & Crane
 Corinth
 Corvas
 Dakra
@@ -68,7 +71,6 @@ Pangolin
 Panthera
 Phantasma
 Pyrana
-Quassus
 Reaper
 Redeemer
 Revenant
@@ -91,7 +93,6 @@ Tigris
 Tipedo
 Titania
 Trinity
-Trumna
 Vasto
 Vauban
 Vectis
@@ -99,7 +100,6 @@ Volnus
 Volt
 Wukong
 Wyrm
-Xaku
 Zakti
 Zephyr
 Zhuge
