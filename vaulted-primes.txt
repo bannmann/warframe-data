@@ -39,6 +39,7 @@ Gram
 Guandao
 Harrow
 Helios
+Hildryn
 Hydroid
 Hystrix
 Inaros
@@ -48,6 +49,7 @@ Khora
 Knell
 Kogake
 Kronen
+Larkspur
 Latron
 Limbo
 Loki
@@ -78,6 +80,7 @@ Rhino
 Rubico
 Saryn
 Scourge
+Shade
 Sicarus
 Silva & Aegis
 Soma
