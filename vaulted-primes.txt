@@ -103,6 +103,7 @@ Vauban
 Vectis
 Volnus
 Volt
+Wisp
 Wukong
 Wyrm
 Zakti

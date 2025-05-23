@@ -15,7 +15,7 @@ Meso K7
 Meso N11
 Meso N17
 Meso P16
-Meso T7
+Meso T8
 
 Neo A14
 Neo C6
