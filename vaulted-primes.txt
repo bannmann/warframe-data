@@ -37,6 +37,7 @@ Gara
 Garuda
 Glaive
 Gram
+Grendel
 Guandao
 Gunsen
 Harrow
@@ -57,6 +58,7 @@ Limbo
 Loki
 Mag
 Magnus
+Masseter
 Mesa
 Mirage
 Nagantaka
@@ -109,4 +111,5 @@ Wyrm
 Zakti
 Zephyr
 Zhuge
+Zylok
 
