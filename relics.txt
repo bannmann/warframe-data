@@ -28,11 +28,11 @@ Neo X1
 
 Axi C10
 Axi N13
-Axi O7
 Axi P8
 Axi S8
 Axi S18
 Axi V10
 Axi V13
 Axi Y1
+Axi Y2
 
