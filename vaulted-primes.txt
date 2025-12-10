@@ -1,4 +1,6 @@
+Acceltra
 Afuris
+Akarius
 Akbolto
 Akjagara
 Akmagnus
@@ -35,6 +37,7 @@ Fulmin
 Galatine
 Gara
 Garuda
+Gauss
 Glaive
 Gram
 Grendel
