@@ -75,10 +75,12 @@ Nova
 Oberon
 Octavia
 Odonata
+Okina
 Pandero
 Pangolin
 Panthera
 Phantasma
+Protea
 Pyrana
 Reaper
 Redeemer
@@ -106,6 +108,7 @@ Trinity
 Vasto
 Vauban
 Vectis
+Velox
 Volnus
 Volt
 Wisp
