@@ -66,6 +66,7 @@ Mesa
 Mirage
 Nagantaka
 Nami Skyla
+Nautilus
 Nekros
 Nezha
 Nidus
@@ -89,6 +90,7 @@ Rhino
 Rubico
 Saryn
 Scourge
+Sevagoth
 Shade
 Sicarus
 Silva & Aegis
