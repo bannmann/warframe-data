@@ -23,7 +23,7 @@ Neo C8
 Neo C9
 Neo T11
 Neo V9
-Neo V11
+Neo V12
 Neo Y1
 
 Axi A21
